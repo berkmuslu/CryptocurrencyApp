@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21672192673",
+    "project_id": "cryptocatch-c4baf",
+    "storage_bucket": "cryptocatch-c4baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21672192673:android:e1fa2de5e51718ab2a9ee0",
+        "android_client_info": {
+          "package_name": "com.example.mycurrencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21672192673-f52dpjvua289v81sgk5e7t3bdf0o06cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRbMtibbkv6Mil_DKFRtt9gzK75RNI9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21672192673-f52dpjvua289v81sgk5e7t3bdf0o06cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
