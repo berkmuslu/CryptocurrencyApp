@@ -1,6 +1,6 @@
-# mycurrencyapp
+# Cryptocurrency Application
 
-A new Flutter project.
+This is the first flutter application of me.
 
 ## Getting Started
 
